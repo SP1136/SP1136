@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm SP<br><br>🚀 Full-Stack Developer  <br>💻 React | JavaScript | Node.js | MongoDB  <br><br>🛠 I build modern web applications and admin dashboards  <br>⚙️ Interested in APIs, performance, and clean code  <br><br>📈 Always learning and improving  <br>🌱 Exploring full-stack and system design<br><br>📫 Connect with me  <br>🔗 GitHub: https://github.com/SP1136<br>🔗 LinkedIn: https://www.linkedin.com/in/sanidhy-pipaliya-8622bb329/
+👋 Hi, I'm Sanidhy Pipaliya<br><br>🚀 Full-Stack Developer  <br>💻 React | JavaScript | Node.js | MongoDB  <br><br>🛠 I build modern web applications and admin dashboards  <br>⚙️ Interested in APIs, performance, and clean code  <br><br>📈 Always learning and improving  <br>🌱 Exploring full-stack and system design<br><br>📫 Connect with me  <br>🔗 GitHub: https://github.com/SP1136<br>🔗 LinkedIn: https://www.linkedin.com/in/sanidhy-pipaliya-8622bb329/
 
 
 ## 🌐 Socials:
